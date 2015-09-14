@@ -16,6 +16,7 @@
 - 12.09.2015 via Alexandru Bagu
 
 > [Design](https://www.dropbox.com/s/zbpygm0fr5cujq5/IMG_20150912_091706.jpg?dl=0)
+
 [SQL](https://www.dropbox.com/s/7igv1q3r21ro8bc/IMG_20150912_091806%202.jpg?dl=0)
 
 
