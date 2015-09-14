@@ -13,8 +13,9 @@
 
 > la primul subiect: la teorie: ce e dictionatul de date si componentele principale al unui sistem de baze de date; la design: diagrama conceptuala pentru companii aeriene/aeropoarte/zboruri/pasageri. da profa regulile pentru ele. se cere sa adaugi si o entitate(tabel) care nu e in enunt si sa stabilesti o regula pt ea si sa precizezi cheile externe pt fiecare tabel in parte. si inca un subpunct la care era un tabel cu 4 coloane: profesor, materie, student, nume_student. pt tabelul asta sa il aduci la FN2 si FN3 si sa precizezi daca e in FNCB. la subiectul 2: 5 exercitii SQL pe o schema cu medici/spitale/sectii/pacient/internare. trebuiau facute joinuri multe pt aproape toate subiectele. unul din exerc era cu cube/rollup/grouping sets, unul cu crearea unui tabel cu o anumita constrangere, celelalte cu selecturi destul de imbarligate, cu date (nr de zile de internare, nr de ani etc).
 
-- 12.09.2015 
-[Design](https://www.dropbox.com/s/zbpygm0fr5cujq5/IMG_20150912_091706.jpg?dl=0)
+- 12.09.2015 via Alexandru Bagu
+
+> [Design](https://www.dropbox.com/s/zbpygm0fr5cujq5/IMG_20150912_091706.jpg?dl=0)
 [SQL](https://www.dropbox.com/s/7igv1q3r21ro8bc/IMG_20150912_091806%202.jpg?dl=0)
 
 
